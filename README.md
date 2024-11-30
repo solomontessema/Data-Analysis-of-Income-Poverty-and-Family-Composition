@@ -13,10 +13,6 @@ The analysis is performed using Python in a Jupyter Notebook environment and inc
 - **Data Visualization**: Creating visual insights into relationships between variables.
 - **Inferential Analysis**: Drawing conclusions about the data through statistical methods.
 
-## Key Findings
-Highlights from this analysis include:
-- [Summarize a few key findings in one or two bullet points, once finalized.]
-
 ## Visualizations
 The project features multiple visualizations that illuminate the connections between family composition, income levels, and poverty rates. These charts and graphs provide critical insights into socio-economic patterns.
 
