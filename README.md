@@ -1,31 +1,33 @@
 # Exploring the Economic Dynamics of American Families
 
 ## Overview
-This repository contains a comprehensive analysis of the economic dynamics affecting American families, focusing on income, poverty, and family composition. This analysis was conducted by Solomon T Tessema as a project for the TIM-8501 v4: Exploratory Data Analysis course at National University.
+This repository contains an analysis of the economic dynamics influencing American families, focusing on income, poverty, and family composition. The project was conducted by **Solomon T. Tessema**, a Ph.D. student at National University.
 
 ## Objective
-The main objective of this project is to utilize exploratory data analysis techniques to uncover insights into how income and poverty levels are influenced by various family compositions in the United States. Through this analysis, we aim to identify patterns, trends, and potential areas for policy improvement.
+The objective of this project is to employ exploratory data analysis (EDA) techniques to uncover how income and poverty levels are affected by various family compositions in the United States. The goal is to identify patterns, trends, and insights that could inform policy improvements.
 
 ## Methodology
-The analysis is carried out using Python in a Jupyter Notebook environment. It employs a variety of data processing and visualization techniques to explore the data set. The notebook includes detailed explorations of:
-
-- Data cleaning and preprocessing
-- Descriptive statistics
-- Data visualization
-- Inferential analysis
+The analysis is performed using Python in a Jupyter Notebook environment and includes the following steps:
+- **Data Cleaning and Preprocessing**: Ensuring data quality and consistency.
+- **Descriptive Statistics**: Summarizing key aspects of the data.
+- **Data Visualization**: Creating visual insights into relationships between variables.
+- **Inferential Analysis**: Drawing conclusions about the data through statistical methods.
 
 ## Key Findings
-Some of the key findings from this analysis include:
-- [Briefly summarize key findings here, ensuring they are non-specific and general for public understanding.]
+Highlights from this analysis include:
+- [Summarize a few key findings in one or two bullet points, once finalized.]
 
 ## Visualizations
-The notebook contains several visualizations that highlight the relationships between family composition, income, and poverty levels. These visualizations play a crucial role in understanding the socio-economic dynamics at play.
+The project features multiple visualizations that illuminate the connections between family composition, income levels, and poverty rates. These charts and graphs provide critical insights into socio-economic patterns.
 
 ## Usage
-To run this analysis, you will need Jupyter Notebook or JupyterLab installed on your machine with Python 3. Additionally, ensure all required libraries specified in the notebook are installed.
+To run this analysis:
+1. Ensure you have **Python 3** installed on your system.
+2. Install the required libraries listed in the notebook.
+3. Open the Jupyter Notebook or JupyterLab and execute the cells.
 
 ## Contributing
-Contributions to this analysis are welcome. Please feel free to fork this repository, make your changes, and submit a pull request.
+Contributions are welcome! Fork this repository, make your changes, and submit a pull request. Suggestions for new analyses or additional data visualizations are also encouraged.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+This project is licensed under the **MIT License**. See the `LICENSE.md` file for more details.
